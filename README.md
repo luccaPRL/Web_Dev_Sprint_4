@@ -6,10 +6,9 @@ Aqui aplicamos os conceitos de desenvolvimento front-end moderno, com **componen
 ---
 
 👥 Integrantes do Projeto
-Nome	RM
-Diego Garcia Tosta	556724
-Joud Jihad Jaber	556482
-Lucca Pereira	560731
+- Diego Garcia Tosta	556724
+- Joud Jihad Jaber	556482
+- Lucca Pereira	560731
 
 ---
 
