@@ -86,7 +86,7 @@ http://localhost:5173
 
 ---
 
-📌 Observações Finais
+## 📌 Observações Finais
 O projeto atende aos critérios de estruturação por componentes, semântica e estilização definida.
 
 O uso de Sass permite maior flexibilidade na personalização de estilo.
